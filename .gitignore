@@ -1,0 +1,10 @@
+# Temporary Excel lock files
+~$*.xlsx
+~$*.xls
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
