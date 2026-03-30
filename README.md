@@ -94,8 +94,8 @@ c. Prepared whole script to run on given data
 
 ### Session 1
 
-<video src="gifs\62fd9e1562f25ed0fafb660d1a5aab62.webm" controls width="100%"></video>
+<video src="gifs/62fd9e1562f25ed0fafb660d1a5aab62.webm" controls width="100%"></video>
 
 ### Session 2
 
-<video src="gifs\d9c9c58da606177ade617730395ca4fd.webm" controls width="100%"></video>
+<video src="gifs/d9c9c58da606177ade617730395ca4fd.webm" controls width="100%"></video>
